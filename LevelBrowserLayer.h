@@ -1,6 +1,7 @@
 #pragma once
 
 #include <Geode/DefaultInclude.hpp>
+#include "GJSearchObject.h"
 
 using namespace geode::prelude;
 
