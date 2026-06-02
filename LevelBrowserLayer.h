@@ -1,13 +1,10 @@
 #pragma once
 
 #include <Geode/DefaultInclude.hpp>
-#include "GJSearchObject.h"
 
 using namespace geode::prelude;
 
 class LevelBrowserLayer : public cocos2d::CCLayerColor {
-protected:
-
 public:
     static LevelBrowserLayer* create(GJSearchObject* object);
     static cocos2d::CCScene* scene(GJSearchObject* object);
