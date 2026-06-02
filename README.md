@@ -1,7 +1,7 @@
 ## Geometry Dash decompilated for Geode base
 
 - This project it's attempt to decompilate Geometry Dash for Geode SDK format
-- It's maked for stealing code in this project for modding
+- It's maked for stealing code from this project for modding
 
 - This code can't compilated how geode mod
 
